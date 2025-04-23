@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Projekten\\Dotnet\\xml-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|k:\\projekten\\dotnet\\xml-api\\xml-api\\services\\xmlprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|solutionrelative:xml-api\\services\\xmlprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|k:\\projekten\\dotnet\\xml-api\\xml-api\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|solutionrelative:xml-api\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|k:\\projekten\\dotnet\\xml-api\\xml-api\\models\\xmlorigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|solutionrelative:xml-api\\models\\xmlorigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|k:\\projekten\\dotnet\\xml-api\\xml-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|solutionrelative:xml-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|k:\\projekten\\dotnet\\xml-api\\xml-api\\controllers\\xmluploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|solutionrelative:xml-api\\controllers\\xmluploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|k:\\projekten\\dotnet\\xml-api\\xml-api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|solutionrelative:xml-api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|k:\\projekten\\dotnet\\xml-api\\xml-api\\services\\xmlstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|solutionrelative:xml-api\\services\\xmlstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|k:\\projekten\\dotnet\\xml-api\\xml-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|solutionrelative:xml-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|k:\\projekten\\dotnet\\xml-api\\xml-api\\models\\jsondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B9C862-2F93-40E3-8002-F9C13DDFB6A7}|xml-api\\xml-api.csproj|solutionrelative:xml-api\\models\\jsondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 884,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Program.cs",
+              "RelativeDocumentMoniker": "xml-api\\Program.cs",
+              "ToolTip": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Program.cs",
+              "RelativeToolTip": "xml-api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:34:41.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XmlUploadController.cs",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Controllers\\XmlUploadController.cs",
+              "RelativeDocumentMoniker": "xml-api\\Controllers\\XmlUploadController.cs",
+              "ToolTip": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Controllers\\XmlUploadController.cs",
+              "RelativeToolTip": "xml-api\\Controllers\\XmlUploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:33:55.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "xml-api\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "xml-api\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:32:44.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XmlProcessingService.cs",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Services\\XmlProcessingService.cs",
+              "RelativeDocumentMoniker": "xml-api\\Services\\XmlProcessingService.cs",
+              "ToolTip": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Services\\XmlProcessingService.cs",
+              "RelativeToolTip": "xml-api\\Services\\XmlProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:30:56.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XmlStorageService.cs",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Services\\XmlStorageService.cs",
+              "RelativeDocumentMoniker": "xml-api\\Services\\XmlStorageService.cs",
+              "ToolTip": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Services\\XmlStorageService.cs",
+              "RelativeToolTip": "xml-api\\Services\\XmlStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:29:41.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "xml-api\\Data\\DbContext.cs",
+              "ToolTip": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Data\\DbContext.cs",
+              "RelativeToolTip": "xml-api\\Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:23:18.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XmlOrigin.cs",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Models\\XmlOrigin.cs",
+              "RelativeDocumentMoniker": "xml-api\\Models\\XmlOrigin.cs",
+              "ToolTip": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Models\\XmlOrigin.cs",
+              "RelativeToolTip": "xml-api\\Models\\XmlOrigin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:21:48.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\appsettings.json",
+              "RelativeDocumentMoniker": "xml-api\\appsettings.json",
+              "ToolTip": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\appsettings.json",
+              "RelativeToolTip": "xml-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T22:29:01.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JsonData.cs",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Models\\JsonData.cs",
+              "RelativeDocumentMoniker": "xml-api\\Models\\JsonData.cs",
+              "ToolTip": "K:\\Projekten\\Dotnet\\xml-api\\xml-api\\Models\\JsonData.cs*",
+              "RelativeToolTip": "xml-api\\Models\\JsonData.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:22:22.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Dnc0vwE1OyT1ix/cLCSa22RzBvepnDmVPSCjX+AeIFU=",
+  "Source": "xml-api",
+  "BasePath": "_content/xml-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
